@@ -6,7 +6,7 @@ namespace ForkTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello new user!");
+            Console.WriteLine("Hello new test user!");
         }
     }
 }
